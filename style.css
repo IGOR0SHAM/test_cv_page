@@ -1,5 +1,6 @@
 .header {
   background-color: #829985;
+  
 }
 
 .nav-list {
@@ -31,7 +32,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #0b4722;
-  background-color: #0b472234;
+  background-color: #0b47222a;
 }
 
 .container {
@@ -57,7 +58,6 @@ div {
   align-content: center;
   text-align: center;
   text-transform: uppercase;
-  border: solid red;
 }
 
 h3 {
